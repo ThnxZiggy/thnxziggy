@@ -2,8 +2,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
-
 - 🌱 I’m currently learning ** Python, TypeScript, AWS **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🥅 2023 Goals: To be profficient in PERN Stack :|
