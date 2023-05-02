@@ -30,7 +30,6 @@
   <a href="https://www.ruby-lang.org/en/"><img src="https://skillicons.dev/icons?i=ruby"></a>
   <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails"></a>
   <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass"></a>
-  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=scss"></a>
 </span>
 
 <h4> Connect with me </h4>
