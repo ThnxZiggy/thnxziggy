@@ -10,7 +10,7 @@
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<h4> Familiar with </h4>
+<h4> I'm familiar with </h4>
 <span> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html"></a>
@@ -19,9 +19,10 @@
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"></a>
   <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express"></a>
+  <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </span>
 
-<h4> Exposed to </h4>
+<h4> And have been exposed to </h4>
 <span>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
