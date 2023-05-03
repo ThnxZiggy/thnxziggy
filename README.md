@@ -19,7 +19,7 @@
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"></a>
   <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express"></a>
-  <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </span>
 
 <h4> And have been exposed to </h4>
