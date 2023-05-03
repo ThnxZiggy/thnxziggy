@@ -39,13 +39,11 @@
   <a href="https://www.instagram.com/thnxziggy"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </span>
 
-# 📊 GitHub Stats:
+## Stats
 ![](https://github-readme-stats.vercel.app/api?username=thnxziggy&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thnxziggy&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thnxziggy&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thnxziggy&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+</span>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thnxziggy&icon=1&color=2)](https://visitcount.itsvg.in)
