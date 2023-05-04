@@ -7,7 +7,13 @@
 - 🥅 2023 Goals: To be profficient in PERN Stack 
 - ⚡ Fun fact: I powerlift, DJ, and am a photographer! 
 
-
+<h4 align="center"> Connect with me </h4>
+<span>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/manmohitmatharu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://www.instagram.com/thnxziggy"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  </p>
+</span>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
@@ -28,6 +34,7 @@
 
 <h4 align="center"> And have been exposed to </h4>
 <span>
+  <p align="center">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"></a>
@@ -35,13 +42,9 @@
   <a href="https://www.ruby-lang.org/en/"><img src="https://skillicons.dev/icons?i=ruby"></a>
   <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails"></a>
   <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass"></a>
+  </p>
 </span>
 
-<h4 align="center"> Connect with me </h4>
-<span>
-  <a href="https://www.linkedin.com/in/manmohitmatharu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="https://www.instagram.com/thnxziggy"><img src="https://skillicons.dev/icons?i=instagram"></a>
-</span>
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=thnxziggy&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
