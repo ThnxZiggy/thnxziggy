@@ -11,7 +11,7 @@
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4 align="center"> I'm familiar with </h4>
-<span align="center"> 
+<span> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html"></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css"></a>
@@ -24,17 +24,17 @@
 
 <h4 align="center"> And have been exposed to </h4>
 <span>
-  <a align="center" href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>
-  <a align="center" href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
-  <a  align="center"href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"></a>
-  <a align="center"href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>
   <a href="https://www.ruby-lang.org/en/"><img src="https://skillicons.dev/icons?i=ruby"></a>
   <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails"></a>
   <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass"></a>
 </span>
 
 <h4 align="center"> Connect with me </h4>
-<span align="center">
+<span>
   <a href="https://www.linkedin.com/in/manmohitmatharu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href="https://www.instagram.com/thnxziggy"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </span>
