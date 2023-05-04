@@ -12,6 +12,7 @@
 
 <h4 align="center"> I'm familiar with </h4>
 <span> 
+  <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html"></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css"></a>
@@ -20,6 +21,7 @@
   <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express"></a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  </p>
 </span>
 
 <h4 align="center"> And have been exposed to </h4>
