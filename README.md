@@ -44,7 +44,6 @@
 </span>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thnxziggy&icon=1&color=2)](https://visitcount.itsvg.in)
     
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
