@@ -41,8 +41,6 @@
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=thnxziggy&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thnxziggy&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thnxziggy&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </span>
 
 ---
@@ -51,8 +49,5 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-    
 <br>
-
-
 -----
