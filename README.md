@@ -23,11 +23,11 @@
 </span>
 
 <h4 align="center"> And have been exposed to </h4>
-<span align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>
+<span>
+  <a align="center" href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>
+  <a align="center" href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>
+  <a  align="center"href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"></a>
+  <a align="center"href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>
   <a href="https://www.ruby-lang.org/en/"><img src="https://skillicons.dev/icons?i=ruby"></a>
   <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails"></a>
   <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass"></a>
