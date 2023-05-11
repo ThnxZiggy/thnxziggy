@@ -1,57 +1,57 @@
 <h1 align="center">Hi 👋 I'm Ziggy</h1>
 
-
+<h4 align="center"> Connect with me </h4>
+<span>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/manmohitmatharu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  </p>
+</span>
 
 - 🌱 I’m currently learning Python, TypeScript, AWS
 - 👯 I’m looking to collaborate on Web Development Related Projects 
 - 🥅 2023 Goals: To be profficient in PERN Stack 
 - ⚡ Fun fact: I powerlift, DJ, and am a photographer! 
 
-<h4 align="center"> Connect with me </h4>
-<span>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/manmohitmatharu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="https://www.instagram.com/thnxziggy"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  </p>
-</span>
+
 
 <h2 align="center">💡Projects Spotlight💡</h2>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">PAPERMAN</h3>
+      <h3 align="center">DELVE</h3>
         <br>
-<a target="_blank" href="https://paperman.vercel.app/"></a>
-
-https://user-images.githubusercontent.com/79684572/199575428-85c68b22-eb45-45ad-9c5e-cb2542c4f02e.mp4
+<a target="_blank" href="https://github.com/NadyaCodes/Delve"></a>
+<img src="https://i.imgur.com/nHNUQcz.png" height="320">
+<!-- https://user-images.githubusercontent.com/79684572/199575428-85c68b22-eb45-45ad-9c5e-cb2542c4f02e.mp4 -->
 
   <p align="center">
-  <a href="https://github.com/henryluan95/paperman" target="_blank">
+   <a href="https://github.com/NadyaCodes/Delve" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
 <!--   <a href="https://paperman.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a> -->
       </p>
-        <p><strong>Tools used: React, Sass, MySQL/Firebase, NodeJs, ExpressJS, Vercel, Figma, Lightroom.</strong> - Paperman is a redesigned website for an existing e-commerce store. This version focuses on improving the UX/UI aspect of the website by adding web accessibility, call to actions and implementing cleaner design, better user interactions. As a result, this version aims to increase customer retention and online sales. 
+        <p><strong>Tools used: React, ES6, NodeJs, ExpressJs, Twilio, Socket.io, SASS, Heroku, Postgres.</strong> - Delve is a synchronized video based group learning application with webcam, live chat, and progres tracking metrics. Users can create study rooms and watch video lectures remotely with synced playback.
 </p>
     </td>
 <td width="50%" valign="top">
-      <h3 align="center">BRAINFLIX</h3>
+      <h3 align="center">SCHEDULER</h3>
         <br>
-<a target="_blank" href="https://henry-luan-brainfix.vercel.app/"></a>
-
-https://user-images.githubusercontent.com/79684572/199574881-b29f6782-48de-4224-857e-5caca568aba3.mp4
+<a target="_blank" href="https://github.com/ThnxZiggy/scheduler"></a>
+<img src="https://github.com/ThnxZiggy/scheduler/blob/master/docs/Booking%20Appointment.png?raw=true" width="480" height= "320"> 
+<!-- 
+https://user-images.githubusercontent.com/79684572/199574881-b29f6782-48de-4224-857e-5caca568aba3.mp4 -->
 
   <p align="center">
-  <a href="https://github.com/henryluan95/henry-luan-brainfix" target="_blank">
+   <a href="https://github.com/ThnxZiggy/scheduler" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-<!--   <a href="https://henry-luan-brainfix.vercel.app/" target="_blank">
+  </a>   
+<!--   <a href="https://github.com/ThnxZiggy/scheduler" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a> -->
       </p>
-        <p><strong>Tools used: React, Sass, NodeJs, ExpressJS, Vercel, Fly.io .</strong> - Brainflix is a new video streaming platform which users can watch and upload new videos. This project is an assignment that I did when I was a student at BrainStation. As per requirements, I built both frontend and backend for this assignment. The frontend ensures users getting the requested video upon chosing a video from the recommended section while the backend provides different endpoints to get, post, delete data.</p>
+        <p><strong>Tools used: React, Sass, NodeJs, ExpressJS, Storybook, Cypress, Jest.</strong> - Scheduleer is a single page web application that allows users to book, edit, and delete appointments. Appointments can be made by inputting Student name and selecting from the available interviewers.</p>
     </td>
   </tr>
   
