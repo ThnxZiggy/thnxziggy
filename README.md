@@ -15,6 +15,49 @@
   </p>
 </span>
 
+<h2 align="center">💡Projects Spotlight💡</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">PAPERMAN</h3>
+        <br>
+<a target="_blank" href="https://paperman.vercel.app/"></a>
+
+https://user-images.githubusercontent.com/79684572/199575428-85c68b22-eb45-45ad-9c5e-cb2542c4f02e.mp4
+
+  <p align="center">
+  <a href="https://github.com/henryluan95/paperman" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+<!--   <a href="https://paperman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a> -->
+      </p>
+        <p><strong>Tools used: React, Sass, MySQL/Firebase, NodeJs, ExpressJS, Vercel, Figma, Lightroom.</strong> - Paperman is a redesigned website for an existing e-commerce store. This version focuses on improving the UX/UI aspect of the website by adding web accessibility, call to actions and implementing cleaner design, better user interactions. As a result, this version aims to increase customer retention and online sales. 
+</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">BRAINFLIX</h3>
+        <br>
+<a target="_blank" href="https://henry-luan-brainfix.vercel.app/"></a>
+
+https://user-images.githubusercontent.com/79684572/199574881-b29f6782-48de-4224-857e-5caca568aba3.mp4
+
+  <p align="center">
+  <a href="https://github.com/henryluan95/henry-luan-brainfix" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+<!--   <a href="https://henry-luan-brainfix.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a> -->
+      </p>
+        <p><strong>Tools used: React, Sass, NodeJs, ExpressJS, Vercel, Fly.io .</strong> - Brainflix is a new video streaming platform which users can watch and upload new videos. This project is an assignment that I did when I was a student at BrainStation. As per requirements, I built both frontend and backend for this assignment. The frontend ensures users getting the requested video upon chosing a video from the recommended section while the backend provides different endpoints to get, post, delete data.</p>
+    </td>
+  </tr>
+  
+  
+</table>
+
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4 align="center"> I'm familiar with </h4>
