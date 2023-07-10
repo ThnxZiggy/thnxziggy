@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 I'm Ziggy</h1>
 
-<h4 align="center"> Connect with me </h4>
+<h4 align="center"> Connect with me or look at my resume</h4>
 <span>
   <p align="center">
   <a href="https://www.linkedin.com/in/manmohitmatharu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://drive.google.com/file/d/1laKD9pkIYeoMN6nTVzbPkOu9Prl3PtEv"><img src="https://skillicons.dev/icons?i=gcp"></a>
   </p>
 </span>
 
