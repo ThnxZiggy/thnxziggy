@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Python, TypeScript, AWS
 - 👯 I’m looking to collaborate on Web Development Related Projects 
-- 🥅 2023 Goals: To be profficient in PERN Stack 
+- 🥅 2025 Goals: To be profficient in PERN Stack 
 - ⚡ Fun fact: I powerlift, DJ, and am a photographer! 
 
 
